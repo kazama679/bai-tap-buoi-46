@@ -1,0 +1,18 @@
+{
+  "list-post": [
+    {
+      "id": 1,
+      "title": "State trong ReactJS",
+      "image": "https://images.viblo.asia/fc4c4f40-4db1-4913-8ad2-4f437d7b6f19.png",
+      "date": "04/03/2024",
+      "status": true
+    },
+    {
+      "id": 1718819140222,
+      "title": "1",
+      "image": "1",
+      "date": "20/6/2024",
+      "status": true
+    }
+  ]
+}
